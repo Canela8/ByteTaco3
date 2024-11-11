@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VIDEOJEFE.unity
     guid: fab4d0cdd0a39ca4b8bb9b2bb718cb32
+  - enabled: 1
+    path: Assets/Scenes/VIDEOENTRADA.unity
+    guid: 7c7178e6001bd94418bc6c6ebcc6aed7
   m_configObjects: {}
